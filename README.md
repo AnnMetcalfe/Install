@@ -81,15 +81,6 @@ Please find the complete documentation on the [freqtrade website](https://www.fr
 - [x] **Manageable via Telegram**: Manage the bot with Telegram.
 - [x] **Display profit/loss in fiat**: Display your profit/loss in fiat currency.
 - [x] **Performance status report**: Provide a performance status of your current trades.
-
-## Quick start
-
-Please refer to the [Docker Quickstart documentation](https://www.freqtrade.io/en/stable/docker_quickstart/) on how to get started quickly.
-
-For further (native) installation methods, please refer to the [Installation documentation page](https://www.freqtrade.io/en/stable/installation/).
-
-## Basic Usage
-
 ### Bot commands
 
 ```
